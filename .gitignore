@@ -3,3 +3,5 @@ obj/appsettings.Development.json
 **/bin/
 **/obj/
 ReLuNet.Web/appsettings.Development.json
+**/bin/
+**/obj/
